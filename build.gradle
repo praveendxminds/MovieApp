@@ -9,6 +9,8 @@ buildscript {
     ext.roomVersion = '2.2.0-alpha01'
     ext.lifecycleVersion = '2.2.0-alpha03'
     ext.archCompomentVersion = '2.0.0'
+    ext.recyclerVersion = '1.1.0-beta01'
+    ext.android_support_version = '29.0.0'
 
 
     repositories {

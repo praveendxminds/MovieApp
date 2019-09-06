@@ -1,7 +1,8 @@
-package com.mvvm.movieapp
+package com.mvvm.movieapp.view.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mvvm.movieapp.R
 
 class MainActivity : AppCompatActivity() {
 
